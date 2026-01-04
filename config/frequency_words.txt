@@ -1,41 +1,38 @@
+# 音乐艺人
 Taylor Swift@5
 TaylorSwift@5
-Beyoncé@3
-Billie Eilish@3
-The Weeknd@3
-Tomorrowland@5
-Coachella@5
+Billboard@5
 音乐节@5
 电音节@5
-巡演@5
+
+# AI 科技
 ChatGPT@10
-GPT-4o@5
 Claude@5
 DeepSeek@10
-Sora@5
-Midjourney@5
+AI@10
 大模型@10
-算力@5
-GPU@5
-iPhone 16@5
+
+# 数码与芯片
+iPhone@10
 Mate 70@5
-小米 15@5
 骁龙@5
-天玑@5
-折叠屏@5
+Snapdragon@5
 N100@5
-RK3588@5
-OpenWrt@5
-iStoreOS@5
-PVE@5
-软路由@5
+CES@5
+
+# 软路由与极客
+OpenWrt@10
+软路由@10
 NAS@5
-Wi-Fi 7@5
-0day@5
-CVE@5
-PoC@5
-漏洞利用@5
+PVE@5
+Docker@5
+
+# 网络安全 (中英双语)
+CVE@10
+0day@10
+漏洞@10
+Vulnerability@5
 勒索软件@5
-渗透测试@5
-护网@5
+Ransomware@5
 HW@5
+护网@5
