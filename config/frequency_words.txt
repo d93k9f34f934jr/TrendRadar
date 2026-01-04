@@ -1,83 +1,41 @@
-# --- 欧美艺人与音乐节 (设置了条数限制，防止被刷屏) ---
-"Taylor Swift"@5
-"TaylorSwift"@5
-"Beyoncé"@3
-"Billie Eilish"@3
-"The Weeknd"@3
-"Lana Del Rey"@3
-"Tomorrowland"@5
-"Coachella"@5
-"Ultra Music Festival"@3
-"EDC"@3
-"Glastonbury"@3
-音乐节
-电音节
-巡演
-新专辑
-
-# --- AI 与前沿科技 (关注核心技术和模型更新) ---
-"ChatGPT"@10
-"GPT-4o"@5
-"Claude 3.5"@5
-"DeepSeek"@10
-"Sora"@5
-"Midjourney"@5
-"Kimi"@5
-大模型
-AGI
-算力
-GPU
-H100
-智能体
-Prompt
-多模态
-
-# --- 数码与手机科技 (精确到型号和热门芯片) ---
-"iPhone 16"@5
-"iPhone 17"
-"Apple Silicon"
-"M4 Max"
-"华为 Mate 70"@5
-"小米 15"@5
-"骁龙 8 Gen 4"
-"天玑 9400"
-折叠屏
-潜望长焦
-固态电池
-钛金属
-
-# --- 软路由与极客网络 (侧重型号与系统) ---
-"N100"
-"RK3588"
-"畅网"
-"OpenWrt"
-"iStoreOS"
-"RouterOS"
-"PVE"
-"Unraid"
-软路由
-旁路路由
-NAS
-HomeLab
-Wi-Fi 7
-
-# --- 网络安全 (剔除APT，侧重漏洞与日常防护) ---
-"0day"
-"CVE"
-"PoC"
-"漏洞利用"
-"RCE"
-勒索软件
-木马
-钓鱼攻击
-渗透测试
-红蓝对抗
-HW
-护网
-免杀
-Wireshark
-BurpSuite
-CobaltStrike
-防火墙
-WAF
-数据安全
+Taylor Swift@5
+TaylorSwift@5
+Beyoncé@3
+Billie Eilish@3
+The Weeknd@3
+Tomorrowland@5
+Coachella@5
+音乐节@5
+电音节@5
+巡演@5
+ChatGPT@10
+GPT-4o@5
+Claude@5
+DeepSeek@10
+Sora@5
+Midjourney@5
+大模型@10
+算力@5
+GPU@5
+iPhone 16@5
+Mate 70@5
+小米 15@5
+骁龙@5
+天玑@5
+折叠屏@5
+N100@5
+RK3588@5
+OpenWrt@5
+iStoreOS@5
+PVE@5
+软路由@5
+NAS@5
+Wi-Fi 7@5
+0day@5
+CVE@5
+PoC@5
+漏洞利用@5
+勒索软件@5
+渗透测试@5
+护网@5
+HW@5
