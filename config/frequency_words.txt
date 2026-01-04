@@ -1,73 +1,15 @@
-/胖东来|于东来/ => 胖东来
+欧美艺人与音乐
+Taylor Swift, TaylorSwift, TS11, Beyoncé, Billie Eilish, Drake, The Weeknd, Ariana Grande, Lana Del Rey, Justin Bieber, Kendrick Lamar, World Tour, 巡演, 新专, Single, Remix, Setlist, 压轴, Headliner, DJ Set, Tomorrowland, Coachella, Ultra Music Festival, UMF, EDC, Glastonbury, Lollapalooza, Burning Man, 奶油田, Creamfields
 
-/DeepSeek|梁文锋/i => DeepSeek
+AI 科技
+ChatGPT, GPT-4o, Claude, Gemini, Llama, Grok, Mistral, Kimi, DeepSeek, Midjourney, Stable Diffusion, Sora, Runway, Kling, 可灵, AGI, LLM, 大模型, 算力, GPU, H100, 神经网络, 智能体, Agent, 提示词, Prompt, 多模态
 
-/华为|鸿蒙|HarmonyOS|任正非/i => 华为
+数码与手机科技
+Apple, iPhone, MacBook, iPad, 华为, Mate70, 小米15, Samsung, S25, Pixel, 全球首发, 骁龙, Snapdragon, 天玑, Dimensity, 潜望长焦, 刷新率, 屏下摄像头, 钛金属, 固态电池, 折叠屏, Apple Silicon, M4
 
-/比亚迪|王传福/ => 比亚迪
+软路由与网络极客
+N100, J4125, RK3588, 畅网, 友善, R5S, R6S, OpenWrt, iStoreOS, RouterOS, ROS, PVE, Proxmox, ESXi, Unraid, Docker, 旁路路由, 网关, HomeLab, NAS, 穿透, 内网穿透, 零信任, Wi-Fi 7
 
-/大疆|\bDJI\b/i => 大疆
 
-/宇树|王兴兴/ => 宇树机器人
 
-/智元|灵犀|稚晖君|彭志辉/ => 智元机器人
-
-/黑神话|冯骥/ => 黑神话悟空
-
-/影之刃零|梁其伟/ => 影之刃零
-
-/哪吒|杨宇/ => 哪吒电影
-!车
-!餐
-
-/三体|流浪地球|刘慈欣|郭帆/ => 三体/流浪地球
-
-申奥
-
-/京东|刘强东/ => 京东
-
-/字节|bytedance|张一鸣/i => 字节跳动
-
-/特斯拉|马斯克/ => 特斯拉
-
-/微软|\bMicrosoft\b/i => 微软
-
-/英伟达|\bNVIDIA\b|黄仁勋/i => 英伟达
-
-/\bAMD\b/i => AMD
-
-/谷歌|\bgoogle\b|\bgemini\b|\bdeepMind\b/i => 谷歌
-
-/\bchatgpt\b|\bopenai\b|\bsora\b/i => OpenAI
-
-/\bclaude\b|Anthropic/i => Claude
-
-/\biphone\b|\bipad\b|\bmac\b|\bios\b/i => 苹果产品
-
-/(?<![a-zA-Z])ai(?![a-zA-Z])/i => AI 相关
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-/月球|登月|火星|宇宙|飞船|航空/ => 航天航空
+网络安全: 0day, CVE, PoC, Exp, 漏洞利用, RCE, 越权, 注入, XSS, SSRF, 勒索软件, Ransomware, 木马, Trojan, 钓鱼攻击, Phishing, 供应链攻击, 红蓝对抗, RedTeaming, 渗透测试, PenTest, 护网, HW, 提权, 隧道技术, 免杀, 逆向工程, 流量分析, Wireshark, BurpSuite, Metasploit, CobaltStrike, CS, 零信任, ZeroTrust, 等保, 密评, 数据安全, 隐私计算, 态势感知, SOC, SIEM, 威胁情报, CTI, 沙箱, Sandbox, WAF, 防火墙, 蜜罐, Honeypot, 跨域, JWT, 反序列化, 拖库, 撞库, 脱库, 黑客组织, 匿名者, Anonymous.
