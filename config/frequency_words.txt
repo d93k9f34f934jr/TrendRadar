@@ -1,15 +1,83 @@
-欧美艺人与音乐
-Taylor Swift, TaylorSwift, TS11, Beyoncé, Billie Eilish, Drake, The Weeknd, Ariana Grande, Lana Del Rey, Justin Bieber, Kendrick Lamar, World Tour, 巡演, 新专, Single, Remix, Setlist, 压轴, Headliner, DJ Set, Tomorrowland, Coachella, Ultra Music Festival, UMF, EDC, Glastonbury, Lollapalooza, Burning Man, 奶油田, Creamfields
+# --- 欧美艺人与音乐节 (设置了条数限制，防止被刷屏) ---
+"Taylor Swift"@5
+"TaylorSwift"@5
+"Beyoncé"@3
+"Billie Eilish"@3
+"The Weeknd"@3
+"Lana Del Rey"@3
+"Tomorrowland"@5
+"Coachella"@5
+"Ultra Music Festival"@3
+"EDC"@3
+"Glastonbury"@3
+音乐节
+电音节
+巡演
+新专辑
 
-AI 科技
-ChatGPT, GPT-4o, Claude, Gemini, Llama, Grok, Mistral, Kimi, DeepSeek, Midjourney, Stable Diffusion, Sora, Runway, Kling, 可灵, AGI, LLM, 大模型, 算力, GPU, H100, 神经网络, 智能体, Agent, 提示词, Prompt, 多模态
+# --- AI 与前沿科技 (关注核心技术和模型更新) ---
+"ChatGPT"@10
+"GPT-4o"@5
+"Claude 3.5"@5
+"DeepSeek"@10
+"Sora"@5
+"Midjourney"@5
+"Kimi"@5
+大模型
+AGI
+算力
+GPU
+H100
+智能体
+Prompt
+多模态
 
-数码与手机科技
-Apple, iPhone, MacBook, iPad, 华为, Mate70, 小米15, Samsung, S25, Pixel, 全球首发, 骁龙, Snapdragon, 天玑, Dimensity, 潜望长焦, 刷新率, 屏下摄像头, 钛金属, 固态电池, 折叠屏, Apple Silicon, M4
+# --- 数码与手机科技 (精确到型号和热门芯片) ---
+"iPhone 16"@5
+"iPhone 17"
+"Apple Silicon"
+"M4 Max"
+"华为 Mate 70"@5
+"小米 15"@5
+"骁龙 8 Gen 4"
+"天玑 9400"
+折叠屏
+潜望长焦
+固态电池
+钛金属
 
-软路由与网络极客
-N100, J4125, RK3588, 畅网, 友善, R5S, R6S, OpenWrt, iStoreOS, RouterOS, ROS, PVE, Proxmox, ESXi, Unraid, Docker, 旁路路由, 网关, HomeLab, NAS, 穿透, 内网穿透, 零信任, Wi-Fi 7
+# --- 软路由与极客网络 (侧重型号与系统) ---
+"N100"
+"RK3588"
+"畅网"
+"OpenWrt"
+"iStoreOS"
+"RouterOS"
+"PVE"
+"Unraid"
+软路由
+旁路路由
+NAS
+HomeLab
+Wi-Fi 7
 
-
-
-网络安全: 0day, CVE, PoC, Exp, 漏洞利用, RCE, 越权, 注入, XSS, SSRF, 勒索软件, Ransomware, 木马, Trojan, 钓鱼攻击, Phishing, 供应链攻击, 红蓝对抗, RedTeaming, 渗透测试, PenTest, 护网, HW, 提权, 隧道技术, 免杀, 逆向工程, 流量分析, Wireshark, BurpSuite, Metasploit, CobaltStrike, CS, 零信任, ZeroTrust, 等保, 密评, 数据安全, 隐私计算, 态势感知, SOC, SIEM, 威胁情报, CTI, 沙箱, Sandbox, WAF, 防火墙, 蜜罐, Honeypot, 跨域, JWT, 反序列化, 拖库, 撞库, 脱库, 黑客组织, 匿名者, Anonymous.
+# --- 网络安全 (剔除APT，侧重漏洞与日常防护) ---
+"0day"
+"CVE"
+"PoC"
+"漏洞利用"
+"RCE"
+勒索软件
+木马
+钓鱼攻击
+渗透测试
+红蓝对抗
+HW
+护网
+免杀
+Wireshark
+BurpSuite
+CobaltStrike
+防火墙
+WAF
+数据安全
